@@ -3,7 +3,7 @@ This is a Ruby evaluation test to create a single serving website that displays 
 
 ## Requirements
 This app will display a list of shoes.  
-Shoes is displayed via AJAX
+Shoes is displayed via AJAX.
 Using http://materializecss.com/
 
 ## Rules
